@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/streamango/static/css/main.c33faec4.chunk.css",
-    "main.js": "/streamango/static/js/main.95d2c5fd.chunk.js",
-    "main.js.map": "/streamango/static/js/main.95d2c5fd.chunk.js.map",
+    "main.js": "/streamango/static/js/main.5a13ff7b.chunk.js",
+    "main.js.map": "/streamango/static/js/main.5a13ff7b.chunk.js.map",
     "runtime~main.js": "/streamango/static/js/runtime~main.5dbee0cc.js",
     "runtime~main.js.map": "/streamango/static/js/runtime~main.5dbee0cc.js.map",
     "static/js/2.47e6c77d.chunk.js": "/streamango/static/js/2.47e6c77d.chunk.js",
     "static/js/2.47e6c77d.chunk.js.map": "/streamango/static/js/2.47e6c77d.chunk.js.map",
     "index.html": "/streamango/index.html",
-    "precache-manifest.c825fcd9de1bc15be50bc7f470d9d22c.js": "/streamango/precache-manifest.c825fcd9de1bc15be50bc7f470d9d22c.js",
+    "precache-manifest.67705c9f5543580f40df22c5e91b9d61.js": "/streamango/precache-manifest.67705c9f5543580f40df22c5e91b9d61.js",
     "service-worker.js": "/streamango/service-worker.js",
     "static/css/main.c33faec4.chunk.css.map": "/streamango/static/css/main.c33faec4.chunk.css.map",
-    "static/media/logo2.svg": "/streamango/static/media/logo2.9c78962e.svg"
+    "static/media/logo2.svg": "/streamango/static/media/logo2.c9598d59.svg"
   }
 }

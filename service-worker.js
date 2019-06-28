@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/streamango/precache-manifest.c825fcd9de1bc15be50bc7f470d9d22c.js"
+  "/streamango/precache-manifest.67705c9f5543580f40df22c5e91b9d61.js"
 );
 
 self.addEventListener('message', (event) => {
